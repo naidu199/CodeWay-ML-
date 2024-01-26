@@ -40,5 +40,6 @@ Task-5: HANDWRITTEN TEXT GENERATION
 handwritten-like text. Train the model on a dataset of handwritten text
 examples, and let it generate new text based on the learned patterns.
 
-DATA SET LINK: paperswithcode.com/dataset/deepwriting
-DATA SET LINK: paperswithcode.com/dataset/iam
+DATA SET LINK: www.paperswithcode.com/dataset/deepwriting
+
+DATA SET LINK: www.paperswithcode.com/dataset/iam
