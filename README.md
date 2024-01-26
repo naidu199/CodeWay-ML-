@@ -8,6 +8,7 @@ movie based on its plot summary or other textual information. We
 can use techniques like TF-IDF or word embeddings with classifiers
 such as Naive Bayes, Logistic Regression, or Support Vector
 Machines.
+
 DATA SET LINK:
 
 Task-2: CREDIT CARD FRAUD DETECTION
@@ -24,6 +25,7 @@ service or business. Use historical customer data, including features like
 usage behavior and customer demographics, and try algorithms like
 Logistic Regression, Random Forests, or Gradient Boosting to predict
 churn.
+
 DATA SET LINK:
 
 Task-4: SPAM SMS DETECTION
@@ -37,4 +39,5 @@ Task-5: HANDWRITTEN TEXT GENERATION
 -Implementing a character-level recurrent neural network (RNN) to generate
 handwritten-like text. Train the model on a dataset of handwritten text
 examples, and let it generate new text based on the learned patterns.
+
 DATA SET LINK:
