@@ -9,7 +9,7 @@ can use techniques like TF-IDF or word embeddings with classifiers
 such as Naive Bayes, Logistic Regression, or Support Vector
 Machines.
 
-DATA SET LINK:
+DATA SET LINK: www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb
 
 Task-2: CREDIT CARD FRAUD DETECTION
 -Building a model to detect fraudulent credit card transactions. Use a
@@ -17,7 +17,7 @@ dataset containing information about credit card transactions, and
 experiment with algorithms like Logistic Regression, Decision Trees,
 or Random Forests to classify transactions as fraudulent or legitimate.
 
-DATA SET LINK:
+DATA SET LINK: www.kaggle.com/datasets/kartik2112/fraud-detection
 
 Task-3: CUSTOMER CHURN PREDICTION
 -Developing a model to predict customer churn for a subscription- based
@@ -26,18 +26,19 @@ usage behavior and customer demographics, and try algorithms like
 Logistic Regression, Random Forests, or Gradient Boosting to predict
 churn.
 
-DATA SET LINK:
+DATA SET LINK: www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction
 
 Task-4: SPAM SMS DETECTION
 -Building an AI model that can classify SMS messages as spam or legitimate.
 Use techniques like TF-IDF or word embeddings with classifiers like 
 Naive Bayes, Logistic Regression, or Support Vector Machines to identify spam messages.
 
-DATA SET LINK:
+DATA SET LINK: www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
 Task-5: HANDWRITTEN TEXT GENERATION
 -Implementing a character-level recurrent neural network (RNN) to generate
 handwritten-like text. Train the model on a dataset of handwritten text
 examples, and let it generate new text based on the learned patterns.
 
-DATA SET LINK:
+DATA SET LINK: paperswithcode.com/dataset/deepwriting
+DATA SET LINK: paperswithcode.com/dataset/iam
